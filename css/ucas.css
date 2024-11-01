@@ -1,0 +1,12 @@
+.ucasPostive{
+    color:green;
+}
+
+.ucasNegative{
+    color:red;
+}
+
+.ucasTextArea{
+    overflow: auto;
+    resize: none;
+}
